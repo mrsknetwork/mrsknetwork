@@ -9,13 +9,11 @@ A YouTube MCP server that lets AI agents interact with and retrieve YouTube cont
 
 ## Tech Stack
 
-```
 Languages:   TypeScript, Python
 Runtime:     Node.js
 Backend:     FastAPI, Celery
 Database:    Postgres, Supabase
 Focus:       MCP servers, AI agents, Agentic Workflows, Internal Business Tools
-```
 
 ## Connect
 
@@ -23,3 +21,5 @@ Focus:       MCP servers, AI agents, Agentic Workflows, Internal Business Tools
 - Substack: [mrsknetwork.substack.com](https://mrsknetwork.substack.com)
 - X: [@mrsknetwork](https://x.com/mrsknetwork)
 - Instagram: [@mrsknetwork](https://instagram.com/mrsknetwork)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
