@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Kamesh 👋
 
-<!--
-**mrsknetwork/mrsknetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer Advocate & Content Creator building AI agent tooling and writing about Agentic AI, AI for Productivity, and AI for Business.
 
-Here are some ideas to get you started:
+## Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [ytmcp](https://github.com/mrsknetwork/ytmcp)
+A YouTube MCP server that lets AI agents interact with and retrieve YouTube content.
+
+## Tech Stack
+
+```
+Languages:   TypeScript, Python
+Runtime:     Node.js
+Backend:     FastAPI, Celery
+Database:    Postgres, Supabase
+Focus:       MCP servers, AI agents, Agentic Workflows, Internal Business Tools
+```
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/mrsknetwork](https://linkedin.com/in/mrsknetwork)
+- Substack: [mrsknetwork.substack.com](https://mrsknetwork.substack.com)
+- X: [@mrsknetwork](https://x.com/mrsknetwork)
+- Instagram: [@mrsknetwork](https://instagram.com/mrsknetwork)
